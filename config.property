@@ -1,0 +1,2 @@
+URL=http://localhost:90/login.do
+IMPLICIT.WAIT=10
